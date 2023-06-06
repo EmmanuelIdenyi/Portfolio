@@ -1,0 +1,17 @@
+.profile-img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+.gradient{
+  background-color: #C4DFDF;
+}
+  .icon-square {
+      width: 3rem;
+      height: 3rem;
+      border-radius: 0.75rem;
+  }
+.caption{
+  color: #3A1078;
+}
